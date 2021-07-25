@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git status
+
+git commit -m "add image of sakib"
+
+git push -f origin master
