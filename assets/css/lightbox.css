@@ -46,7 +46,7 @@ html.lb-disable-scrolling {
   height: 250px;
   margin: 0 auto;
   border-radius: 4px;
-  background-color: white;
+  background-color: green;
 }
 
 .lb-outerContainer:after {
