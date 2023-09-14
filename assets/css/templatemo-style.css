@@ -24,9 +24,7 @@ body {
 
 /* Basic */
 
-body {
-    overflow-x: hidden;
-}
+
 
 input,
 select,
@@ -42,7 +40,7 @@ a:hover {
 p {
     font-size: 16px;
     line-height: 24px;
-    color:#D2691E;
+    color:green;
 }
 
 h4 {
@@ -104,7 +102,7 @@ html {
 }
 
 .main-nav li:last-child a {
-    border-bottom: 2px solid #D2691E;
+    border-bottom: 2px solid green;
 }
 
 .main-nav li {
@@ -117,7 +115,7 @@ html {
     display: inline-block;
     font-size: 16px;
     font-weight: 700;
-    color: #fff;
+    color: green;
     width: 100%;
     transition: all 0.5s;
     border-top: 2px solid #D2691E;
@@ -171,13 +169,13 @@ html {
     text-align: center;
     line-height: 40px;
     background-color: rgba(0, 0, 0, 0.2);
-    color: #fff;
+    color: green;
     font-size: 14px;
     transition: all 0.5s;
 }
 
 .menu .social-network ul li a:hover {
-    background-color: #fff;
+    background-color: green;
     color: #a43f49;
 }
 
@@ -302,7 +300,7 @@ html {
 .section-heading h2 {
     font-size: 32px;
     font-weight: 700;
-    color: #fff;
+    color: green;
 }
 
 .section-heading .line-dec {
@@ -315,7 +313,7 @@ html {
 .section-heading span {
     margin-top: 5px;
     font-size: 16px;
-    color: #fff;
+    color: green;
     letter-spacing: 0.5px;
 }
 
@@ -336,7 +334,7 @@ html {
 
 .white-button a:hover {
     background-color: #a43f49;
-    color: #fff;
+    color: green;
 }
 
 button {
@@ -357,7 +355,7 @@ button {
 button:hover {
     outline: none;
     background-color: #a43f49;
-    color: #fff;
+    color: pink;
 }
 
 
