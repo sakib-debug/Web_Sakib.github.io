@@ -46,7 +46,7 @@ p {
 h4 {
     font-size: 26px;
     font-weight: 700;
-    color: #D2691E;
+    color: #1ed2ab;
     letter-spacing: 0.25px;
 }
 
@@ -123,8 +123,8 @@ html {
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    background: #D2691E;
-    color: #8c363e;
+    background: #1ed2a8;
+    color: #368c83;
 }
 
 /* Sidebar Menu */
@@ -151,7 +151,7 @@ html {
 .menu .author-content span {
     font-size: 13px;
     font-style: italic;
-    color:#D2691E;
+    color:#1ec0d2;
 }
 
 .menu .social-network {
@@ -176,7 +176,7 @@ html {
 
 .menu .social-network ul li a:hover {
     background-color: green;
-    color: #a43f49;
+    color: #3fa49c;
 }
 
 .menu .copyright-text {
@@ -221,7 +221,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #a43f49;
+  background-color: #3fa484;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
@@ -239,7 +239,7 @@ html {
 }
 
 .menu-toggle {
-  color: #D2691E;
+  color: #1ed296;
   cursor: pointer;
   font-size: 25px;
   position: fixed;
@@ -253,8 +253,8 @@ html {
     position: fixed;
     top: 0;
     left: 0;
-    color: #a43f49;
-    background-color: #D2691E;
+    color: #3fa477;
+    background-color: #1ed299;
     width: 60px;
     height: 60px;
     text-align: center;
@@ -269,8 +269,8 @@ html {
 #menu-close {
     cursor: pointer;
     text-align: right;
-    color: #a43f49;
-    background-color: #D2691E;
+    color: #3fa49d;
+    background-color: #1ed2a8;
     width: 100%;
     height: 60px;
     text-align: center;
@@ -282,7 +282,7 @@ html {
 /* Section */
 
 .section {
-    color: #D2691E;
+    color: #1ecfd2;
     width: 55%;
     right: 10%;
     left: 35%;
@@ -306,7 +306,7 @@ html {
 .section-heading .line-dec {
     width: 60px;
     height: 3px;
-    background-color: #a43f49;
+    background-color: #3fa491;
     margin: 10px auto;
 }
 
@@ -323,8 +323,8 @@ html {
 .white-button a {
     display: inline-block;
     padding: 12px 20px;
-    background-color:#D2691E;
-    color: #a43f49;
+    background-color:#1ed2c0;
+    color: #3fa49d;
     font-size: 13px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -333,15 +333,15 @@ html {
 }
 
 .white-button a:hover {
-    background-color: #a43f49;
+    background-color: #3f81a4;
     color: green;
 }
 
 button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #D2691E;
-    color: #a43f49;
+    background-color: #1ed2d2;
+    color: #3f87a4;
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -354,8 +354,8 @@ button {
 
 button:hover {
     outline: none;
-    background-color: #a43f49;
-    color: pink;
+    background-color: #3fa495;
+    color: rgb(192, 246, 255);
 }
 
 
@@ -495,8 +495,8 @@ section.my-work .section-heading {
 }
 
 .isotope-toolbar input[type="radio"]:checked + span {
-    color: #a43f49;
-    border-bottom: 2px solid #a43f49;
+    color: #3fa4a4;
+    border-bottom: 2px solid #3fa49f;
 }
 
 .isotope-box {
@@ -510,12 +510,12 @@ section.my-work .section-heading {
 }
 
 .isotope-toolbar p {
-    border-top: 1px solid #D2691E;
+    border-top: 1px solid #1ed2c3;
     padding-top: 15px;
 }
 
 .isotope-toolbar a {
-    color: #D2691E;
+    color: #1ebdd2;
 }
 
 .isotope-item {
@@ -578,7 +578,7 @@ figure.snip1321 span {
 figure.snip1321 i {
   position: relative!important;
   font-size: 18px;
-  background-color: #a43f49;
+  background-color: #3f8ea4;
   width: 40px;
   height: 40px;
   display: inline-block;
@@ -588,7 +588,7 @@ figure.snip1321 i {
   color: #fff;
 }
 figure.snip1321:after {
-  background-color: #D2691E;
+  background-color: #1ea8d2;
   position: absolute;
   content: "";
   display: block;
@@ -681,7 +681,7 @@ section.contact-me {
     }
 
     .section {
-        color: #D2691E;
+        color: #961ed2;
         width: 65%;
         right: 5%;
         left: 30%;
